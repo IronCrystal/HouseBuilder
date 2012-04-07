@@ -1,0 +1,15 @@
+Features:
+
+  Build houses instantly with commands.
+  Wooden or Brick, you decide.
+  There are permissions.
+
+Commands:
+  /househelp -Shows the help page.
+  /woodhouse -Instantly builds a wooden house.
+  /brickhouse -Instantly builds a brick house.
+
+Permissions:
+  HouseBuilder.help -Allows the use of /househelp
+  HouseBuilder.whouse -Allows the use of /woodhouse
+  Housebuilder.bhouse -Allows the use of /brickhouse
