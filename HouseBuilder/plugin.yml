@@ -1,0 +1,12 @@
+name: HouseBuilder
+main: me.IronCrystal.HouseBuilder.HouseBuilder
+version: 1.0
+description: >
+             Makes Houses!
+commands:
+  woodhouse:
+    description: Makes a Wooden House!
+  brickhouse:
+    description: Makes a Brick House!
+  househelp:
+    description: Shows the help page.
